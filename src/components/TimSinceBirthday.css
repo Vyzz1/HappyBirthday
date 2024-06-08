@@ -1,0 +1,10 @@
+.date:not(.date>*) {
+    font-size: 25px;
+    color: #00b1ff;
+    font-weight: 600;
+}
+.sub_date{
+    font-size: 18px;
+    color: #ccc;
+
+}
