@@ -77,7 +77,7 @@ function App() {
 
         <Card sx={{ marginBlock: "35px" }} variant="elevation">
           <CardContent>
-            <Typography variant="h4"> It have been</Typography>
+            <Typography variant="h4"> It has been</Typography>
           </CardContent>
           <CardContent>
             <TimeSinceBirthday birthday={"2004-06-26"} />
